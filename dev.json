@@ -1,5 +1,13 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "notice": null
+  "notice": {
+    "id": "107c4648-9bbd-4cf5-a093-9ebd0270c4b9",
+    "title": "Test announcement",
+    "message": "This is a test of Playmake's announcements. Everything is working normally. Tap this banner to read more, or dismiss it with the × button.",
+    "kind": "info",
+    "dismissible": true,
+    "startsAt": 1789736467,
+    "expiresAt": 1789740067
+  }
 }
